@@ -1,4 +1,4 @@
-# Trybe-exercises-React
+# Exercises-React
 
 Exercícios básicos em React: props,setState,manipulação de eventos,Onclick.
 
